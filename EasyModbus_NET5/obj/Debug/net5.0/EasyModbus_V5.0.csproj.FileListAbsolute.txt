@@ -1,0 +1,12 @@
+C:\Users\phia\Desktop\dll modbus\EasyModbusTCP.NET-master\EasyModbusTCP.NET-master\EasyModbus_NET5\bin\Debug\net5.0\EasyModbus.deps.json
+C:\Users\phia\Desktop\dll modbus\EasyModbusTCP.NET-master\EasyModbusTCP.NET-master\EasyModbus_NET5\bin\Debug\net5.0\EasyModbus.dll
+C:\Users\phia\Desktop\dll modbus\EasyModbusTCP.NET-master\EasyModbusTCP.NET-master\EasyModbus_NET5\bin\Debug\net5.0\ref\EasyModbus.dll
+C:\Users\phia\Desktop\dll modbus\EasyModbusTCP.NET-master\EasyModbusTCP.NET-master\EasyModbus_NET5\bin\Debug\net5.0\EasyModbus.pdb
+C:\Users\phia\Desktop\dll modbus\EasyModbusTCP.NET-master\EasyModbusTCP.NET-master\EasyModbus_NET5\obj\Debug\net5.0\EasyModbus_V5.0.csproj.AssemblyReference.cache
+C:\Users\phia\Desktop\dll modbus\EasyModbusTCP.NET-master\EasyModbusTCP.NET-master\EasyModbus_NET5\obj\Debug\net5.0\EasyModbus_V5.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phia\Desktop\dll modbus\EasyModbusTCP.NET-master\EasyModbusTCP.NET-master\EasyModbus_NET5\obj\Debug\net5.0\EasyModbus_V5.0.AssemblyInfoInputs.cache
+C:\Users\phia\Desktop\dll modbus\EasyModbusTCP.NET-master\EasyModbusTCP.NET-master\EasyModbus_NET5\obj\Debug\net5.0\EasyModbus_V5.0.AssemblyInfo.cs
+C:\Users\phia\Desktop\dll modbus\EasyModbusTCP.NET-master\EasyModbusTCP.NET-master\EasyModbus_NET5\obj\Debug\net5.0\EasyModbus_V5.0.csproj.CoreCompileInputs.cache
+C:\Users\phia\Desktop\dll modbus\EasyModbusTCP.NET-master\EasyModbusTCP.NET-master\EasyModbus_NET5\obj\Debug\net5.0\EasyModbus.dll
+C:\Users\phia\Desktop\dll modbus\EasyModbusTCP.NET-master\EasyModbusTCP.NET-master\EasyModbus_NET5\obj\Debug\net5.0\ref\EasyModbus.dll
+C:\Users\phia\Desktop\dll modbus\EasyModbusTCP.NET-master\EasyModbusTCP.NET-master\EasyModbus_NET5\obj\Debug\net5.0\EasyModbus.pdb
